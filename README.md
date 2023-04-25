@@ -37,7 +37,6 @@ Usage
 7. Press 'q' to exit the script.
 
 License
-
 This project is licensed under the MIT License.
 
 Acknowledgements
@@ -52,3 +51,12 @@ pyttsx3
 
 
 
+Anuj Kesharwani present at 16:53:29 on 04/25/2023
+Ranveer present at 16:53:30 on 04/25/2023
+
+
+Present students:
++------------------------------------------------+
+|                Anuj Kesharwani                 |
+|                    Ranveer                     |
++------------------------------------------------+
