@@ -11,10 +11,13 @@ pyttsx3 2.90
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/<your_username>/Audio-Based-Face-Identity-Detection-using-Deepface-Face_Recognition.git
-   cd Audio-Based-Face-Identity-Detection-using-Deepface-Face_Recognition
+
+git clone https://github.com/Cdbrain786/Audio_Based-Face-Identity-Detection-using-Deepface-Face_recognition.git
+   
+cd Audio-Based-Face-Identity-Detection-using-Deepface-Face_Recognition
 
 2. Install the required libraries:
+   
    pip install -r requirements.txt
    
 Usage
@@ -23,7 +26,9 @@ Usage
 2. Change the image_folder variable in face_detection.py to the path of your image folder.
 
 3. Run the script:
-   python face_detection.py
+
+python face_detection.py
+   
 4. When the script starts, it will capture video feed from your webcam and detect faces in real-time. If a face is detected, it will compare it to the known faces in   the image folder and try to recognize it. It will also analyze the face using Deepface and provide information about the person's gender, age, and dominant emotion.
 
 5. The script will output the recognized person's name, gender, age, and emotion as speech using pyttsx3 library. It will also draw a box around the detected face and display the label with the person's name, gender, age, and emotion below the face.
