@@ -17,8 +17,7 @@ git clone https://github.com/Cdbrain786/Audio_Based-Face-Identity-Detection-usin
 cd Audio-Based-Face-Identity-Detection-using-Deepface-Face_Recognition
 
 2. Install the required libraries:
-   
-   pip install -r requirements.txt
+   pip install -r Requirement.text
    
 Usage
 1. Prepare a folder containing the images of the people whose faces you want to recognize. Make sure each image file is named after the person's name.
@@ -26,7 +25,7 @@ Usage
 2. Change the image_folder variable in face_detection.py to the path of your image folder.
 
 3. Run the script:
-4. '''python face_detection.py'''
+4. python face_detection.py
    
 4. When the script starts, it will capture video feed from your webcam and detect faces in real-time. If a face is detected, it will compare it to the known faces in   the image folder and try to recognize it. It will also analyze the face using Deepface and provide information about the person's gender, age, and dominant emotion.
 
@@ -42,21 +41,6 @@ This project is licensed under the MIT License.
 Acknowledgements
 
 OpenCV
-
 Deepface
-
 Face Recognition
-
 pyttsx3
-
-
-
-Anuj Kesharwani present at 16:53:29 on 04/25/2023
-Ranveer present at 16:53:30 on 04/25/2023
-
-
-Present students:
-+------------------------------------------------+
-|                Anuj Kesharwani                 |
-|                    Ranveer                     |
-+------------------------------------------------+
