@@ -1,0 +1,13 @@
+Deepface #Initial Requirement
+face_recognition #Initial Requirement
+numpy #latest_version
+opencv-contrib-python #latest_version
+opencv-python #latest_version
+scikit-build #latest_version
+numpy #latest_version
+Pillow
+scipy>=0.17.0
+dlib>=19.3.0
+face_recognition_models
+Click>=6.0
+pyttsx3
