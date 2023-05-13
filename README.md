@@ -2,7 +2,7 @@
 
 This project uses a combination of computer vision and machine learning techniques to detect and recognize faces in real-time from video feed captured using a webcam. The system uses OpenCV's face detection, Deepface library for face analysis, and Face Recognition for facial recognition. It also uses pyttsx3 library for text-to-speech output.
 
-Prerequisites
+## Prerequisites
 Python 3.x
 OpenCV 4.x
 face_recognition 1.2.3
@@ -19,7 +19,7 @@ cd Audio-Based-Face-Identity-Detection-using-Deepface-Face_Recognition
 2. Install the required libraries:
 ``` pip install -r Requirement.text```
    
-Usage
+## Usage
 1. Prepare a folder containing the images of the people whose faces you want to recognize. Make sure each image file is named after the person's name.
 
 2. Change the image_folder variable in face_detection.py to the path of your image folder.
@@ -35,11 +35,11 @@ Usage
 
 7. Press 'q' to exit the script.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 
 OpenCV
 
